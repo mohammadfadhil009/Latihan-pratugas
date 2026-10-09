@@ -1,1 +1,10 @@
-seblak
+1. seblak
+2. nasi bakar
+3. nasi goreng
+4. nasi kuning
+5. nasi padang
+6. nasi kucing
+7. nasi kebuli
+8. nasi daun jeruk
+9. nasi kecombrang
+10. nasi basi
